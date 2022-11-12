@@ -1,1 +1,1 @@
-# Calculadora.github.io
+Calculadora simples usando HTML, CSS e JavaScript
