@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+body
+{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    text-align: center;
+}
+
+/*Estilo botões*/
+input
+{
+    padding: 15px;
+    outline: none;
+    font-size: 14px;
+    font-family: 'Orbitron', sans-serif;
+    border-radius: 10%;
+    cursor: pointer;
+    color: black;
+    
+}
+
+.num
+{
+    width: 54px;
+    height: 57px;
+}
+
+.text
+{
+    width: 160px;
+    height: 16px;
+    border-radius: 12px;
+    letter-spacing: 5px;
+    margin-bottom: 12px;
+}
+
+.text1
+{
+   width: 24px;
+   height: 26px;
+   border-radius: 12px;
+   letter-spacing: 5px;
+   text-align: center;
+   margin-bottom: 12px;
+   cursor: pointer;
+   background-color: #ffa31a;
+   color: white;
+}
+
+.main
+{
+    display: flex;    
+}
